@@ -12,13 +12,13 @@
    - There are two ways to connect the PAD7 to the motherboard
    - Connection：1 . AUX-1(8PIN )     2.USB CABLE
    ![2_connect_aux](https://github.com/makerbase-mks/MKS-PAD70/blob/master/hardware/Image/2_connect_aux.png "2_connect_aux")
-   ![3_connect_usb](https://github.com/makerbase-mks/MKS-PAD70/blob/master/hardware/Image/3_connect_usb.png  "3_connect_usb")
+   ![3_connect_usb](https://github.com/makerbase-mks/MKS-PAD70/blob/master/hardware/Image/3_connect_usb.png "3_connect_usb")
    
    
    
    - After finish connecting,then set the Connect type and Baudrate in Pad
    - NOTE:The Baud rate must be the same as the motherboard setting
-   ![1_connect_setting](https://github.com/makerbase-mks/MKS-PAD70/blob/master/hardware/Image/1_connect_setting.png"1_connect_setting")
+   ![1_connect_setting](https://github.com/makerbase-mks/MKS-PAD70/blob/master/hardware/Image/1_connect_setting.png "1_connect_setting")
    
    
 ###How to setting
