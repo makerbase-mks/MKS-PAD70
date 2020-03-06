@@ -11,21 +11,21 @@
 
    - There are two ways to connect the PAD7 to the motherboard
    - Connection：1 . AUX-1(8PIN )     2.USB CABLE
-   ![2_connect_aux](https://github.com/makerbase-mks/MKS-PAD70/blob/master/Picture/2_connect_aux.PNG "2_connect_aux")
-   ![3_connect_usb](https://github.com/makerbase-mks/MKS-PAD70/blob/master/Picture/3_connect_usb.PNG "3_connect_usb")
+   ![2_connect_aux](https://github.com/makerbase-mks/MKS-PAD70/hardware/Image/2_connect_aux.PNG "2_connect_aux")
+   ![3_connect_usb](https://github.com/makerbase-mks/MKS-PAD70/hardware/Image/3_connect_usb.PNG "3_connect_usb")
    
    
    
    - After finish connecting,then set the Connect type and Baudrate in Pad
    - NOTE:The Baud rate must be the same as the motherboard setting
-   ![1_connect_setting](https://github.com/makerbase-mks/MKS-PAD70/blob/master/Picture/1_connect_setting.png "1_connect_setting")
+   ![1_connect_setting](https://github.com/makerbase-mks/MKS-PAD70/hardware/Image/1_connect_setting.png "1_connect_setting")
    
    
 ###How to setting
 
    - Tap on the screen  "Tool box---Setting"
    - Enter the interface to set the parameters of the printer.After setting up, remember to click "save".
-   ![4_setting](https://github.com/makerbase-mks/MKS-PAD70/blob/master/Picture/4_setting.png "4_setting")
+   ![4_setting](https://github.com/makerbase-mks/MKS-PAD70/hardware/Image/4_setting.png "4_setting")
    
    
 ###How to print 
@@ -33,8 +33,8 @@
    - You can select files from different file systems 
    - Select the file and click OK. You can start printing.
    - Note：Support gcode files and STL files, can be sliced in PAD7
-   ![5_printing_select_file](https://github.com/makerbase-mks/MKS-PAD70/blob/master/Picture/5_printing_select_file.png "5_printing_select_file")
-   ![6_printing_done](https://github.com/makerbase-mks/MKS-PAD70/blob/master/Picture/6_printing_done.png "6_printing_done")
+   ![5_printing_select_file](https://github.com/makerbase-mks/MKS-PAD70/hardware/Image/5_printing_select_file.png "5_printing_select_file")
+   ![6_printing_done](https://github.com/makerbase-mks/MKS-PAD70/hardware/Image/6_printing_done.png "6_printing_done")
    
    
    
