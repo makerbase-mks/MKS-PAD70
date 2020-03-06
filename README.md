@@ -11,8 +11,8 @@
 
    - There are two ways to connect the PAD7 to the motherboard
    - Connection：1 . AUX-1(8PIN )     2.USB CABLE
-   ![2_connect_aux](https://github.com/makerbase-mks/MKS-PAD70/blob/master/hardware/Image/2_connect_aux.png"2_connect_aux")
-   ![3_connect_usb](https://github.com/makerbase-mks/MKS-PAD70/blob/master/hardware/Image/3_connect_usb.png "3_connect_usb")
+   ![2_connect_aux](https://github.com/makerbase-mks/MKS-PAD70/blob/master/hardware/Image/2_connect_aux.png "2_connect_aux")
+   ![3_connect_usb](https://github.com/makerbase-mks/MKS-PAD70/blob/master/hardware/Image/3_connect_usb.png  "3_connect_usb")
    
    
    
@@ -33,7 +33,7 @@
    - You can select files from different file systems 
    - Select the file and click OK. You can start printing.
    - Note：Support gcode files and STL files, can be sliced in PAD7
-   ![5_printing_select_file](https://github.com/makerbase-mks/MKS-PAD70/blob/master/hardware/Image/5_printing_select_file.png"5_printing_select_file")
+   ![5_printing_select_file](https://github.com/makerbase-mks/MKS-PAD70/blob/master/hardware/Image/5_printing_select_file.png "5_printing_select_file")
    ![6_printing_done](https://github.com/makerbase-mks/MKS-PAD70/blob/master/hardware/Image/6_printing_done.png "6_printing_done")
    
    
