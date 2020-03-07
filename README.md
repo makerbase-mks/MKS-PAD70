@@ -1,5 +1,5 @@
 # MKS-PAD70
-MKS PAD7 is a android pad with 7inch capacitance screen developed by makerbase.It is a multifunction 3D printer smart display integrated with model display,gcode visualizer,online slicing,cloud printing, remote monitor, and so on
+MKS PAD70 is a android pad with 7inch capacitance screen developed by makerbase.It is a multifunction 3D printer smart display integrated with model display,gcode visualizer,online slicing,cloud printing, remote monitor, and so on
 
 ## Related tutorials and Notice
 - User Manual.[click here](https://github.com/makerbase-mks/MKS-PAD70/wiki/MKS-PAD70-User-Manual)
