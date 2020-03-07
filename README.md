@@ -3,10 +3,11 @@ MKS PAD7 is a android pad with 7inch capacitance screen developed by makerbase.I
 
 ## Related tutorials and Notice
 - User Manual.[click here](https://github.com/makerbase-mks/MKS-PAD70/wiki/MKS-PAD70-User-Manual)
+- How to buy the MKS PAD70.[click here](https://www.aliexpress.com/item/4000764834565.html?spm=2114.12010612.8148356.1.5edd19d9TekY75)
 - Welcome to follow us on Facebook to learn about the company's latest developments.[click here](https://www.facebook.com/Makerbase.mks/)
 
 ## Firmware version description
-
+- MKS PAD70 App firmware
 
 ## Note
 - Thank you for using MKS products. If you have any questions during use, please contact us in time and we will work with you to solve it.
